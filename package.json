@@ -1,0 +1,13 @@
+{
+  "name": "callbag-from-readable-stream",
+  "version": "1.0.0",
+  "description": "Converts a nodejs readable stream to a listenable callbag source",
+  "main": "index.js",
+  "repository": "https://github.com/Risto-Stevcev/callbag-from-readable-stream",
+  "author": "Risto Stevcev",
+  "license": "BSD-3-Clause",
+  "private": false,
+  "devDependencies": {
+    "callbag-basics": "^3.2.0"
+  }
+}
